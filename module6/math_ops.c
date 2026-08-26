@@ -13,4 +13,5 @@ int main() {
     printf("Enter second number: ");
     scanf("%d", &b);
     print_math(a, b);
+    return 0;
 }
